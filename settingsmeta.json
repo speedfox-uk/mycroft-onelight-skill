@@ -1,0 +1,20 @@
+{
+    "name": "Onelight skill",
+    "skillMetadata":{
+        "sections": 
+	[
+            {
+                "name": "Smartswitch settings",
+		"fields": [
+                    {
+                        "name" : "light_ip",
+                        "type" : "text",
+			"label" : "Smartswitch IP address",
+			"value" : ""
+                    }
+		]
+
+	    }
+        ]
+    }
+}
